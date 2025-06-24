@@ -29,7 +29,7 @@ Download `best.pt` from [[Google Drive Link Here](https://drive.google.com/drive
 
 
 Make sure Tesseract OCR is installed and its path is correctly set in the script:
-https://github.com/tesseract-ocr/tesseract/wiki
+(Download: https://github.com/tesseract-ocr/tesseract/wiki)
 
 ```python
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
