@@ -23,6 +23,11 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
+📦 Model Weights
+
+Download `best.pt` from [Google Drive Link Here] and place it inside the `static/assets/` directory.
+
+
 Make sure Tesseract OCR is installed and its path is correctly set in the script:
 
 ```python
